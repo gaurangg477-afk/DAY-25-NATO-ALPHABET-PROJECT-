@@ -19,7 +19,7 @@ In this project, we learn and apply:
 The goal is to convert any user-input word into its corresponding NATO phonetic alphabet code words.
 
 📂 Project Structure
-Day-26-NATO-Alphabet/
+Day-25-NATO-Alphabet/
 │
 ├── main.py
 ├── nato_phonetic_alphabet.csv
@@ -42,7 +42,7 @@ A	Alfa
 B	Bravo
 C	Charlie
 💻 Example Run
-Enter a word: Mohit
+Enter a word: GAURANG
 ['Mike', 'Oscar', 'Hotel', 'India', 'Tango']
 🧾 Core Code Logic
 import pandas

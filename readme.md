@@ -4,7 +4,7 @@ This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp b
 
 📌 Project Overview
 
-In this project, we learn and apply:
+In this project, we learn and apply
 
 ✅ List Comprehension
 
